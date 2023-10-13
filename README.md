@@ -1,1 +1,1 @@
-### New Project made for learning purpos
+### New Project made for learning purpose
